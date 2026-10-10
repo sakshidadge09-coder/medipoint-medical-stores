@@ -1,4 +1,4 @@
-# Medipoint Medical Store Management System
+# Medipoint Medical Store Management System 
 
 A web-based admin system for managing a medical store.
 
